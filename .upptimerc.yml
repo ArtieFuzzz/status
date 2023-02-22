@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.astolfo.cafe
   # baseUrl: /your-repo-name
-  name: Upptime
+  name: "Artie's Status Page"
   introTitle: "Artie's Status Page"
   introMessage: This page is updated in Real-Time
   navbar:
