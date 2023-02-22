@@ -13,6 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   name: "Artie's Status Page"
   introTitle: "Artie's Status Page"
+  theme: light
   introMessage: This page is updated in Real-Time
   navbar:
     - title: Status
