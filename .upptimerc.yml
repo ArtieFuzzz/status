@@ -3,15 +3,15 @@ owner: ArtieFuzzz # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: CDN / ShareX Uploader
+    url: https://img.astolfo.cafe
 
 status-website:
   cname: status.astolfo.cafe
   name: "Artie's Status Page"
   introTitle: "Artie's Status Page"
   theme: night
-  introMessage: This page is updated in Real-Time
+  introMessage: Real-Time updated Status Page on my hosted Projects and Services.
   navbar:
     - title: Status
       href: /
