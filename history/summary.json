@@ -4,18 +4,19 @@
     "url": "https://img.astolfo.cafe",
     "icon": "https://icons.duckduckgo.com/ip3/img.astolfo.cafe.ico",
     "slug": "cdn-share-x-uploader",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 380,
-    "timeDay": 156,
-    "timeWeek": 297,
-    "timeMonth": 391,
+    "timeDay": 281,
+    "timeWeek": 310,
+    "timeMonth": 392,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-04-08": 23
     }
   }
